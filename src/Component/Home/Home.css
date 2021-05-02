@@ -1,0 +1,16 @@
+
+.clubList{
+    display: grid;
+    grid-template-columns: repeat(3,2fr);
+    column-gap: 15px;
+}
+.body{
+    background-color: darkturquoise;
+}
+@media (max-width:688px){
+    .clubList{
+        display: grid;
+        grid-template-columns: repeat(1,2fr);
+        column-gap: 15px;
+    }
+}

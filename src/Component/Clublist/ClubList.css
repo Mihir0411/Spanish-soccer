@@ -1,0 +1,11 @@
+.clubName{
+    border: 1px solid lightpink;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 15px;
+    background-color:lemonchiffon;
+    text-align: center;
+}
+img{
+    width:200px;
+}
